@@ -4,4 +4,4 @@ I made the decision to create a page for this project that had features in commo
 
 #Happycoding!
 
-Here is the link to the images: https://drive.google.com/drive/u/0/folders/1OeMF3nGzdJ0MYMEISOyQNLD2Ma6rm2a_
+Here is the link to the images: https://drive.google.com/drive/folders/1OeMF3nGzdJ0MYMEISOyQNLD2Ma6rm2a_?usp=sharing
